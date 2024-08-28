@@ -56,7 +56,7 @@ document.querySelector('#app').innerHTML = `
 
   <div class="px-10 pb-5">
     <div class="row justify-content-center align-item-center durability ">
-      <div class="col-md-6 class="d-flex justify-content-end">
+      <div class="col-md-6 class="d-flex justify-content-end ">
         <h3 style="width: 450px;">
         Durability of titanium
          — strength meets all-day comfort.
@@ -100,5 +100,3 @@ autoW .typeString('luxury')
       .deleteAll()
       .typeString('culture')
       .start();
-
-      
